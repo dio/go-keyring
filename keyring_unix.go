@@ -1,4 +1,4 @@
-//go:build (dragonfly && cgo) || (freebsd && cgo) || linux || netbsd || openbsd
+//go:build (dragonfly && cgo) || (freebsd && cgo) || netbsd || openbsd
 
 package keyring
 
